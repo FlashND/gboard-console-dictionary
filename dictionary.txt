@@ -1,0 +1,292 @@
+# Gboard Dictionary version:1
+sudo		
+apt		
+apt-get		
+dpkg		
+ls		
+cd		
+pwd		
+mkdir		
+rmdir		
+rm		
+cp		
+mv		
+ln		
+chmod		
+chown		
+chgrp		
+touch		
+cat		
+less		
+more		
+head		
+tail		
+grep		
+egrep		
+rg		
+find		
+xargs		
+sed		
+awk		
+sort		
+uniq		
+wc		
+cut		
+tr		
+tee		
+echo		
+printf		
+export		
+env		
+alias		
+unalias		
+source		
+which		
+whereis		
+man		
+history		
+clear		
+exit		
+ps		
+top		
+htop		
+kill		
+killall		
+pkill		
+pgrep		
+nohup		
+jobs		
+fg		
+bg		
+systemctl		
+journalctl		
+service		
+crontab		
+df		
+du		
+free		
+lsblk		
+mount		
+umount		
+fdisk		
+mkfs		
+blkid		
+uname		
+uptime		
+whoami		
+hostname		
+reboot		
+shutdown		
+tar		
+gzip		
+gunzip		
+zip		
+unzip		
+7z		
+xz		
+curl		
+wget		
+ssh		
+scp		
+sftp		
+rsync		
+ping		
+traceroute		
+netstat		
+ss		
+ip		
+ifconfig		
+nslookup		
+dig		
+nmap		
+git		
+clone		
+commit		
+push		
+pull		
+fetch		
+checkout		
+branch		
+merge		
+rebase		
+stash		
+diff		
+status		
+log		
+python		
+python3		
+pip		
+pip3		
+node		
+npm		
+npx		
+docker		
+nano		
+vim		
+vi		
+bash		
+zsh		
+sh		
+termux		
+pkg		
+adb		
+fastboot		
+logcat		
+shell		
+devices		
+install		
+uninstall		
+bootloader		
+recovery		
+sideload		
+getprop		
+setprop		
+dumpsys		
+pm		
+am		
+monkey		
+screencap		
+screenrecord		
+--version		
+--help		
+-rf		
+-la		
+-lah		
+/dev/null		
+/sdcard		
+/data/local/tmp		
+localhost		
+127.0.0.1		
+0.0.0.0		
+Get-ChildItem		
+Get-Content		
+Set-Content		
+Add-Content		
+Get-Item		
+Set-Location		
+Get-Location		
+New-Item		
+Remove-Item		
+Copy-Item		
+Move-Item		
+Rename-Item		
+Test-Path		
+Resolve-Path		
+Join-Path		
+Split-Path		
+Get-Process		
+Stop-Process		
+Start-Process		
+Get-Service		
+Start-Service		
+Stop-Service		
+Restart-Service		
+Set-Service		
+Get-Command		
+Get-Help		
+Get-Member		
+Get-Alias		
+Select-Object		
+Where-Object		
+ForEach-Object		
+Sort-Object		
+Group-Object		
+Measure-Object		
+Format-Table		
+Format-List		
+Out-File		
+Out-Null		
+Write-Host		
+Write-Output		
+Read-Host		
+Invoke-WebRequest		
+Invoke-RestMethod		
+Invoke-Expression		
+Invoke-Command		
+Enter-PSSession		
+Test-NetConnection		
+Test-Connection		
+Get-NetIPAddress		
+Get-NetAdapter		
+Resolve-DnsName		
+Get-ExecutionPolicy		
+Set-ExecutionPolicy		
+Import-Module		
+Install-Module		
+Get-Module		
+Get-WmiObject		
+Get-CimInstance		
+Get-EventLog		
+Get-WinEvent		
+Get-ItemProperty		
+Set-ItemProperty		
+Expand-Archive		
+Compress-Archive		
+Get-FileHash		
+ConvertTo-Json		
+ConvertFrom-Json		
+Export-Csv		
+Import-Csv		
+Start-Sleep		
+Clear-Host		
+-Recurse		
+-Force		
+-Path		
+-Filter		
+-ErrorAction		
+-Verbose		
+-WhatIf		
+$env:PATH		
+$PSVersionTable		
+RemoteSigned		
+Bypass		
+winget		
+choco		
+ipconfig		
+netsh		
+tasklist		
+taskkill		
+sfc		
+DISM		
+chkdsk		
+diskpart		
+robocopy		
+wsl		
+powershell		
+pwsh		
+adb logcat	alc	
+adb devices	adv	
+adb shell	ash	
+adb install -r	air	
+adb reboot	arb	
+adb uninstall	aun	
+adb push	apu	
+adb pull	apl	
+adb shell pm list packages	apm	
+adb logcat -c	alcc	
+fastboot devices	fbd	
+fastboot reboot	fbr	
+sudo apt update && sudo apt upgrade -y	sau	
+sudo apt install	sai	
+ls -la	lla	
+cd ..	cdd	
+chmod +x	chx	
+rm -rf	rmrf	
+grep -rn	grn	
+tail -f	tlf	
+ps aux | grep	psg	
+git status	gst	
+git commit -m	gcm	
+git pull	gpl	
+git push	gps	
+git add .	gaa	
+git log --oneline	glo	
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser	sep	
+Get-ChildItem -Recurse	gcr	
+Get-Process | Where-Object	gpw	
+Select-Object -First	sof	
+Invoke-WebRequest -Uri	iwr	
+Test-NetConnection -Port	tnc	
+Get-Service | Where-Object Status -eq Running	gsr	
+Remove-Item -Recurse -Force	rir	
+Get-Content -Wait -Tail	gct	
